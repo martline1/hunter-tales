@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Behind Entities
+    uniqueID: 1523979597
+    locked: 0
+  - name: Collide (Entity Level)
+    uniqueID: 457173935
+    locked: 0
+  - name: After Entities 1
+    uniqueID: 2785386471
+    locked: 0
+  - name: After Entities 2
+    uniqueID: 1739003987
+    locked: 0
+  - name: After Entities 3
+    uniqueID: 498443251
+    locked: 0
